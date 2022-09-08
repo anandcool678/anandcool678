@@ -6,5 +6,5 @@ I am Anand Prakash Dwivedi, Currently a Third year CSE Student at Army Institute
 🔭I'm currently learning Node.js
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anand-prakash-dwivedi-12a566201/) [Facebook](https://www.facebook.com/anand.dwivedi.3576/) [Instagram](https://www.instagram.com/anandcool678/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anand-prakash-dwivedi-12a566201/) | [Facebook](https://www.facebook.com/anand.dwivedi.3576/) | [Instagram](https://www.instagram.com/anandcool678/)
 
